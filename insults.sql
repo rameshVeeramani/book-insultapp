@@ -1,3 +1,5 @@
+
+/* sql for creating the db */
 DROP TABLE IF EXISTS short_adjective;
 DROP TABLE IF EXISTS long_adjective;
 DROP TABLE IF EXISTS noun;
